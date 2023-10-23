@@ -1,0 +1,62 @@
+body {
+  background-color:#94A684;;
+}
+
+
+.App {
+  background-color: white;
+  min-height: 100vh;
+  width: 350px;
+  margin: 20px auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+}
+
+.crossed {
+  text-decoration: line-through 2px red;
+  background-color: #FFEEF4;
+}
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 1%;
+  font-size: 15px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Caveat', cursive;
+}
+
+.btn {
+  margin-top: 15px;
+  background: #435334;
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 20px;
+  font-family: 'Caveat', cursive;
+
+
+}
+
+ .btn-remove {
+  background: #FFB7B7;
+  margin-bottom: 5px;
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 20px;
+  font-family: 'Caveat', cursive;
+ }
