@@ -23,6 +23,7 @@ h1 {
 -webkit-text-decoration-line: line-through;
 -webkit-text-decoration-color: red;
 -webkit-text-decoration-thickness:2px;
+background-color: #FFB7B7;
 }
 ul, li {
   list-style-type: none;
