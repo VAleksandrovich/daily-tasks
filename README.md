@@ -1,70 +1,86 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://tiny-bombolone-5c47c3.netlify.app">
+    <img src="book.png" alt="Logo" width="250" height="250">
+  </a>
 
-## Available Scripts
+  <h3 align="center">List to Do - Project </h3>
 
-In the project directory, you can run:
+  <p align="center">
+    An awesome web-application allows you to track your daily tasks and delete them in one click!
+    <br /> 
+  </p>
+</div>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+    About The Project
+      <ul>
+        <li>Built With</li>
+      </ul>
+    </li>
+    
+<li>Installation</li>
+      </ul>
+    </li>
+    <li>Contact</li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Every day we are faced with numerous things that we have to do. And sometimes in the hustle and bustle of the day we forget to do them, since the brain is constantly digesting a large amount of information. The purpose of creating this project is to make life easier and allow users to track their daily tasks just using a simple application named   ***List to Do***.
 
-### `npm run build`
+Here's why you need to try it out:
+* Because your time is a valuable resource, and my project can help you complete your daily tasks easily and efficiently. 
+* You shouldn't be doing the same actions over and over again as as soon you complete your daily tasks you can simple delete them and be confident you did everything as planned!
+* Your life will become more productive!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This application was built using **JavaScript** and **React** knowledge.
 
-### `npm run eject`
+* ![React][React.js]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone this repository
+$ git clone ***https://github.com/VAleksandrovich/daily-tasks.git***
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Go into the repository
+$ cd daily-tasks
 
-## Learn More
+3. Run the app
+$ npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- CONTACT -->
 
-### Code Splitting
+#### Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Your Name - [@Linkedin](https://www.linkedin.com/in/volha-aleksandrovich-449831266/) - aleksandrovichvolha@gmail.com
 
-### Analyzing the Bundle Size
+Project Link: [https://tiny-bombolone-5c47c3.netlify.app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
